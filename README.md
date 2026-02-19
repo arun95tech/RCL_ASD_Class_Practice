@@ -37,7 +37,6 @@ It demonstrates practical application of advanced programming concepts, clean co
 Advanced-Software-Development/
 - Weekly practical exercises
 - Design pattern implementations
-- Testing & refactoring tasks
 
 ---
 
